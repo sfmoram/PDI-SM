@@ -4,7 +4,7 @@ Curso introductorio al procesamiento digital de imágenes
 ## Organización del curso
 
 ### Clase 01:
-* 1.1 Programa - Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
+* 1.1 Programa del Curso [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 1.2 Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
 
 ### Clase 02:
