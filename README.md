@@ -3,7 +3,7 @@ Procesamiento Digital de Imágenes
 
 ## Organización del curso
 
-### Clase 01:
+### Semana 01 - Introducción:
 * 1.1 Programa del Curso [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Plan%20de%20curso%20Ima%CC%81genes%20Diagno%CC%81sticas.pdf)
 * 1.2 Slides [[CANVA]]
 (https://www.canva.com/design/DAFZzjcnpf0/i7J5X1Ota1j26-tr4Fjt1A/edit?utm_content=DAFZzjcnpf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
