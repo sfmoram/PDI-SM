@@ -1,5 +1,5 @@
-# Procesamiento digital de imagenes
-Curso introductorio al procesamiento digital de imágenes
+# PDI - SM
+Procesamiento Digital de Imágenes
 
 ## Organización del curso
 
