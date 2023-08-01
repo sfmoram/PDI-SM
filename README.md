@@ -5,8 +5,7 @@ Procesamiento Digital de Imágenes
 
 ### Semana 01 - Introducción:
 * 1.1 Programa del Curso [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Plan%20de%20curso%20Ima%CC%81genes%20Diagno%CC%81sticas.pdf)
-* 1.2 Slides [[CANVA]]
-(https://www.canva.com/design/DAFZzjcnpf0/i7J5X1Ota1j26-tr4Fjt1A/edit?utm_content=DAFZzjcnpf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 1.2 Slides [[YouTube]](https://www.canva.com/design/DAFZzjcnpf0/i7J5X1Ota1j26-tr4Fjt1A/edit?utm_content=DAFZzjcnpf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 1.3 Laboratorio 1 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2001/Actividad__1_20232.pdf)
 * 1.4 Laboratorio Segmentación de arroz [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2001/Lab_1_PDI_Segmentaci%C3%B3n_arroz.ipynb)
 * 1.5 Laboratorio con solución [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2001/Lab_1_PDI_Segmentaci%C3%B3n_arroz_completo.ipynb)
