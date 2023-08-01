@@ -9,7 +9,7 @@ Procesamiento Digital de Imágenes
 * 1.3 Laboratorio 1 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2001/Actividad__1_20232.pdf)
 * 1.4 Laboratorio Segmentación de arroz [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2001/Lab_1_PDI_Segmentaci%C3%B3n_arroz.ipynb)
 * 1.5 Laboratorio con solución [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2001/Lab_1_PDI_Segmentaci%C3%B3n_arroz_completo.ipynb)
-* 1.6 Cuestionario [[gf]](https://youtu.be/ViO5UX-rJpQ)
+* 1.6 Cuestionario [[Forms]](https://forms.gle/LT9fGYERvH2NpJp98)
 
 ### Semana 02 - Adquisición de imagenes (Revisar el nombre):
 
