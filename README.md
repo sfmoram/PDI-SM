@@ -14,8 +14,7 @@ Procesamiento Digital de Imágenes
 ### Semana 02 - Adquisición de imagenes (Revisar el nombre):
 
 ### Semana 03 - Procesamiento en el dominio del espacio:
-* 3.1 Slides [[CANVA]]
-(https://www.canva.com/design/DAFayV2Lxf4/TTACxfP5UlW6kvo7u_5p5A/edit?utm_content=DAFayV2Lxf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 3.1 Slides [[CANVA]](https://www.canva.com/design/DAFayV2Lxf4/TTACxfP5UlW6kvo7u_5p5A/edit?utm_content=DAFayV2Lxf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 3.2 Interpolación Bilineal [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/EjercicioInterpolaci%C3%B3nBilineal.pdf)
 
 ### Clase 02:
