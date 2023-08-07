@@ -19,7 +19,7 @@ Procesamiento Digital de Imágenes
 * 3.3 Laboratorio 2 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Actividad__2_20232.pdf)
 * 3.4 Laboratorio Muestreo [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_2_PDI_Muestreo.ipynb)
 * 3.5 Laboratorio 3
-* 3.6 Laboratorio Transformación Geométrica
+* 3.6 Laboratorio Transformación Geométrica [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_3_PDI_Transformaci%C3%B3n_Geom%C3%A9trica.ipynb)
 * 3.7 Cuestionario [[Forms]](https://forms.gle/3snQ7eJfRHd1rQ367)
 
 ### Clase 02:
