@@ -21,7 +21,8 @@ Procesamiento Digital de Imágenes
 * 3.5 Laboratorio 3 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Actividad__3_20232.pdf)
 * 3.6 Laboratorio Transformación Geométrica [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_3_PDI_Transformaci%C3%B3n_Geom%C3%A9trica.ipynb)
 * 3.7 Laboratorio Operaciones Lógicas (Solución) [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_3_Desaf%C3%ADo_Operaciones_L%C3%B3gicas.ipynb)
-* 3.8 Cuestionario [[Forms]](https://forms.gle/3snQ7eJfRHd1rQ367)
+* 3.8 Laboratorio Ecualización [[Colab]]()
+* 3.9 Cuestionario [[Forms]](https://forms.gle/3snQ7eJfRHd1rQ367)
 
 ### Semana 04 - Procesamiento de imágenes a color:
 * 4.1 Slides [[CANVA]]()
