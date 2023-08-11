@@ -25,7 +25,7 @@ Procesamiento Digital de Imágenes
 * 3.9 Cuestionario [[Forms]](https://forms.gle/3snQ7eJfRHd1rQ367)
 
 ### Semana 04 - Procesamiento de imágenes a color:
-* 4.1 Slides [[CANVA]]()
+* 4.1 Slides [[CANVA]](https://www.canva.com/design/DAFbbaGv2a4/i6toDBfpf8Y8sTUvak0Yig/edit?utm_content=DAFbbaGv2a4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Clase 02:
 * 2.1 PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
