@@ -23,6 +23,9 @@ Procesamiento Digital de Imágenes
 * 3.7 Laboratorio Operaciones Lógicas (Solución) [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_3_Desaf%C3%ADo_Operaciones_L%C3%B3gicas.ipynb)
 * 3.8 Cuestionario [[Forms]](https://forms.gle/3snQ7eJfRHd1rQ367)
 
+### Semana 04 - Procesamiento de imágenes a color:
+* 4.1 Slides [[CANVA]]()
+
 ### Clase 02:
 * 2.1 PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * 2.2 PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
