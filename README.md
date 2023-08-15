@@ -29,3 +29,4 @@ Procesamiento Digital de Imágenes
 * 4.2 Laboratorio Segmentación a color [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Lab_5_Segmentaci%C3%B3n_Color.ipynb)
 * 4.3 Laboratorio Segmentación a color usando k-means [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Laboratorio_Segmentaci%C3%B3nColor_k_means.ipynb)
 * 4.4 Laboratorio de Mejoramiento de color [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Lab_6_PDI_Mejoramiento_Color.ipynb)
+* 4.5 Laboratorio 4 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Actividad__4_20232.pdf)
