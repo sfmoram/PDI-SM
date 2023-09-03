@@ -33,11 +33,8 @@ Procesamiento Digital de Imágenes
 
 ### Parcial:
 * Laboratorio Segmentación a color [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Lab_5_Segmentaci%C3%B3n_Color.ipynb)
-* Laboratorio Segmentación a color usando k-means [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Laboratorio_Segmentaci%C3%B3nColor_k_means.ipynb)
-* Laboratorio de Mejoramiento de color [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Lab_6_PDI_Mejoramiento_Color.ipynb)
-* Laboratorio 4 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Actividad__4_20232.pdf)
 
-* ### Semana 05 - Procesamiento en el dominio de la frecuencia I:
+### Semana 05 - Procesamiento en el dominio de la frecuencia I:
 * 5.1 Slides [[CANVA]](https://www.canva.com/design/DAFb91m5sNU/2wExrF1d2ODTcIh_yox9Rw/edit?utm_content=DAFb91m5sNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 5.2 Trabajo en clase [[PDF]]()
 * 5.3 Solución al trabajo en clase [[PDF]]()
