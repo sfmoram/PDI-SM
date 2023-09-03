@@ -37,4 +37,5 @@ Procesamiento Digital de Imágenes
 ### Semana 05 - Procesamiento en el dominio de la frecuencia I:
 * 5.1 Slides [[CANVA]](https://www.canva.com/design/DAFb91m5sNU/2wExrF1d2ODTcIh_yox9Rw/edit?utm_content=DAFb91m5sNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 5.2 Trabajo en clase [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/TRABAJO%20EN%20CLASE%20Proc%20Dom%20Frec.pdf)
-* 5.3 Solución al trabajo en clase [[PDF]]()
+* 5.3 Solución al trabajo en clase [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Soluci%C3%B3n%20Taller%20Proc%20Dom%20Frec.pdf)
+* 5.4 Laboratorio 5 [[PDF]]()
