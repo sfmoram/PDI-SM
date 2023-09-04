@@ -39,4 +39,4 @@ Procesamiento Digital de Imágenes
 * 5.2 Trabajo en clase [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/TRABAJO%20EN%20CLASE%20Proc%20Dom%20Frec.pdf)
 * 5.3 Solución al trabajo en clase [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Soluci%C3%B3n%20Taller%20Proc%20Dom%20Frec.pdf)
 * 5.4 Laboratorio 5 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Actividad__6_20232.pdf)
-* 5.5 Solución (Proceso lógico) [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Actividad__6_20232.pdf)
+* 5.5 Solución (Proceso lógico) [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Proceso%20l%C3%B3gico%20de%20soluci%C3%B3n%20F1%20score.pdf)
