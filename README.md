@@ -38,4 +38,5 @@ Procesamiento Digital de Imágenes
 * 5.1 Slides [[CANVA]](https://www.canva.com/design/DAFb91m5sNU/2wExrF1d2ODTcIh_yox9Rw/edit?utm_content=DAFb91m5sNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 5.2 Trabajo en clase [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/TRABAJO%20EN%20CLASE%20Proc%20Dom%20Frec.pdf)
 * 5.3 Solución al trabajo en clase [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Soluci%C3%B3n%20Taller%20Proc%20Dom%20Frec.pdf)
-* 5.4 Laboratorio 5 [[PDF]]()
+* 5.4 Laboratorio 5 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Actividad__6_20232.pdf)
+* 5.5 Solución (Proceso lógico) [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Actividad__6_20232.pdf)
