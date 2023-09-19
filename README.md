@@ -44,5 +44,5 @@ Procesamiento Digital de Imágenes
 ### Semana 06 - Procesamiento en el dominio de la frecuencia II:
 * 6.1 Slides [[CANVA]](https://www.canva.com/design/DAFcWEl9qVk/cfFCC2t1j4YEe9ubKi9f4A/edit?utm_content=DAFcWEl9qVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 6.2 Laboratorio 6: Procesamiento en el Dominio de la Frecuencia [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2006/Actividad__7_20232.pdf)
-* 6.3 Laboratorio 7: Analisis estadistico del F1 score [[PDF]]()
+* 6.3 Laboratorio 7: Analisis estadistico del F1 score [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2006/Actividad__8_20232.pdf)
 
