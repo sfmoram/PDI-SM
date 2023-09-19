@@ -42,7 +42,7 @@ Procesamiento Digital de Imágenes
 * 5.5 Solución (Proceso lógico) [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2005/Proceso%20l%C3%B3gico%20de%20soluci%C3%B3n%20F1%20score.pdf)
 
 ### Semana 06 - Procesamiento en el dominio de la frecuencia II:
-* 6.1 Slides [[CANVA]](https://www.canva.com/design/DAFb91m5sNU/2wExrF1d2ODTcIh_yox9Rw/edit?utm_content=DAFb91m5sNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* 6.2 Laboratorio 6 [[PDF]]()
+* 6.1 Slides [[CANVA]](https://www.canva.com/design/DAFcWEl9qVk/cfFCC2t1j4YEe9ubKi9f4A/edit?utm_content=DAFcWEl9qVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 6.2 Laboratorio 6 [[PDF]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2006/Actividad__7_20232.pdf)
 * 6.3 Laboratorio 7 [[PDF]]()
 
